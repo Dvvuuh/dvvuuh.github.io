@@ -74,7 +74,7 @@
 }
 
 .hero-title {
-  color: var(--main-green);
+  color: white;
   text-align: center;
   letter-spacing: -0.5px;
   align-self: center;
@@ -96,8 +96,8 @@
   aspect-ratio: 1.09;
   object-fit: auto;
   object-position: center;
-  width: 100%;
   flex-grow: 1;
+  width: 440px;
 }
 
 .hero-text {
@@ -116,17 +116,15 @@
 }
 
 .hero-name {
-  color: var(--main-green);
+  color: white;
   letter-spacing: 1px;
   margin-top: 12px;
-  font: 50px/63px Preahvihear, sans-serif;
 }
 
 .hero-description {
   text-align: center;
   letter-spacing: 0.22px;
   margin-top: 6px;
-  font: 11px Preahvihear, sans-serif;
 }
 
 .job-title {

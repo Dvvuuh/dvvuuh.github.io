@@ -201,7 +201,8 @@
   flex-grow: 1;
   padding-bottom: 25px;
   flex-direction: column;
-  width: 100%;
+  width: 500px;
+  height: 300px;
 }
 
 .card-content {
@@ -218,8 +219,7 @@
   aspect-ratio: 1.06;
   object-fit: auto;
   object-position: center;
-  width: 122px;
-  max-width: 100%;
+  width: 125px;
   flex-grow: 1;
 }
 

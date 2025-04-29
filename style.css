@@ -381,7 +381,7 @@ img {
   }
 
   .hero-image, .hero-text {
-    max-width: 100%;
+    max-width: 70%;
   }
 
   .experience-card {
